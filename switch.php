@@ -16,7 +16,7 @@ echo  "test output<br>";
 $i = 1;
 //condition
 while($i <= 5){
-echo $i;
+echo $i.'<br>';
 // increment
 $i++.'<br>';
 }
